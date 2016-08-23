@@ -11,7 +11,7 @@ import { HeroDetailComponent } from './hero-detail.component';
   ],
   declarations: [ 
   	AppComponent,
-  	HeroDetailComponent
+  	HeroDetailComponent,
   ],
   bootstrap: [ AppComponent ]
 })
